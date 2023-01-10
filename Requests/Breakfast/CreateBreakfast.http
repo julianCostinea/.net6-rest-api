@@ -1,0 +1,18 @@
+﻿POST https://localhost:7086/breakfasts
+Content-Type: application/json
+
+{
+  "name": "Vegan Sunshine",
+  "description": "",
+  "startDateTime": "2022-04-08T08:00:00",
+  "endDateTime": "2022-04-08T11:00:00",
+  "savory": [
+    "Oatmeal",
+    "Avocado Toast",
+    "Omelette",
+    "Salad"
+  ],
+  "Sweet": [
+    "Cookie"
+  ]
+}
