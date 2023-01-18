@@ -1,9 +1,9 @@
-﻿PUT https://localhost:7086/breakfasts/1a160ec1-4329-484e-af87-7fddd89ae337
+﻿PUT https://localhost:7086/breakfasts/5b1ec44f-cc4f-41ae-8235-3cfe04a21739
 Content-Type: application/json
 
 {
-    "name": "Vegan Sunshine 25",
-    "description": "Vegan everything! Join us for a healthy breakfast..",
+    "name": "Vegan Sunshine 2",
+    "description": "Vegan everything! Join us for a healthy breakfast..lorem ipsum dolor sit amet",
     "startDateTime": "2022-04-08T08:00:00",
     "endDateTime": "2022-04-08T11:00:00",
     "savory": [

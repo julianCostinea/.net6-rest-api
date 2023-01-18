@@ -2,8 +2,8 @@
 Content-Type: application/json
 
 {
-  "name": "Vegan Sunshine 1",
-  "description": "",
+  "name": "Ve",
+  "description": "Vegan Sun",
   "startDateTime": "2022-04-08T08:00:00",
   "endDateTime": "2022-04-08T11:00:00",
   "savory": [
